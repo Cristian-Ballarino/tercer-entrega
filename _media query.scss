@@ -1,0 +1,30 @@
+
+/* Media query para telefonos moviles */
+@media (min-width: 320px) {
+    body {
+        font-size: 18px;
+        padding: 0px;
+    }
+
+    .navbar {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .container {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+/* Media query para computadoras de escritorio */
+@media (min-width: 1024px) {
+    body {
+        font-size: 20px;
+        padding: 0;
+    }
+
+    img {
+        width: 50%;
+    }
+}

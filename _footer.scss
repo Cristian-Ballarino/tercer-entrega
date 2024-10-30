@@ -1,0 +1,30 @@
+
+/*footer*/
+.inicio{
+    margin: 10;
+    padding:10;
+    /*background-color: chartreuse;*/
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(170,219,45,1) 73%, rgba(0,255,83,1) 99%);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:dashed;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+    
+     }
+    
+     .cont{
+    
+        margin: 0;
+        padding:10px;
+        background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(170,219,45,1) 73%, rgba(0,255,83,1) 99%);
+        /*background-color: chartreuse;*/
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: dashed;
+        
+    }
